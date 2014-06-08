@@ -13,7 +13,7 @@ currently editing it.
 Perfect for when you accidentally hit <kbd>a</kbd> or <kbd>r</kbd>.
  
 
-## Mighty_Text.js
+## MightyText.js
 ### Ctrl+Enter to Send
 When you disable enter-to-send in
 MightyText, there's no keyboard shortcut
